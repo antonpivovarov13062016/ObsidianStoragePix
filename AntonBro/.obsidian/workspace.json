@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "de4c8bcd11ff8732",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4d4a36e9e9a6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68641d88205a8544",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c0cb390a2032325",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9ded8971e474d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918ac1f328626146",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6ee83432c8f6ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b454e372008e704",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b827a32c21b3bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd78839e1404aad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de56814e30bb358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dedaea43b2e5e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a880ebad6473bb12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35206dab17d40028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "918ac1f328626146",
+  "lastOpenFiles": [
+    "Без названия 1.md",
+    "Конвертер с UIPath.md",
+    "Pasted image 20240707182659.png",
+    "Pasted image 20240707182639.png",
+    "Pasted image 20240707182622.png",
+    "Pasted image 20240707182610.png",
+    "Pasted image 20240707182406.png",
+    "Pasted image 20240707182314.png",
+    "PIX Converter.md",
+    "Pasted image 20240707182138.png",
+    "Pasted image 20240707182124.png",
+    "Pasted image 20240707182102.png",
+    "Pasted image 20240707181847.png",
+    "Google таблицы.md",
+    "Настройка Google Sheets.md",
+    "Google документы.md",
+    "GPT.md",
+    "Настройка Google Docs.md",
+    "Google диск.md",
+    "Google диск Настройка для использования в PIX.md",
+    "Работа с сервисами Google.md",
+    "SQL.md",
+    "HTTP и SQL.md",
+    "HTTP.md",
+    "Обобщить текст GPT.md",
+    "YandexGPT.md",
+    "Machine learning.md",
+    "Машинное обучение.md",
+    "Telegram в PIX Studio.md",
+    "Telegram.md",
+    "State machine.md",
+    "Telegram бот который отправляет письма с электронной почты.md",
+    "Tesseract.md",
+    "Pix Academy Базовый курс/Работа с файлами.md",
+    "Без названия.md",
+    "OCR.md",
+    "Pix ИНТЕГРАЦИЯ СО СТОРОННИМИ СЕРВИСАМИ В PIX STUDIO",
+    "Pix Academy Базовый курс"
+  ]
+}
