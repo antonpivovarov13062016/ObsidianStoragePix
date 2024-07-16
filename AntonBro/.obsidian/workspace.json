@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7a4d4a36e9e9a6e5",
+        "id": "d9c18b7bac033fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "68641d88205a8544",
+            "id": "18c587a72a5ff296",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md"
+              }
             }
           }
         ]
@@ -139,44 +147,50 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "918ac1f328626146",
+  "active": "18c587a72a5ff296",
   "lastOpenFiles": [
-    "Без названия 1.md",
-    "Конвертер с UIPath.md",
-    "Pasted image 20240707182659.png",
-    "Pasted image 20240707182639.png",
-    "Pasted image 20240707182622.png",
-    "Pasted image 20240707182610.png",
-    "Pasted image 20240707182406.png",
-    "Pasted image 20240707182314.png",
-    "PIX Converter.md",
-    "Pasted image 20240707182138.png",
-    "Pasted image 20240707182124.png",
-    "Pasted image 20240707182102.png",
-    "Pasted image 20240707181847.png",
-    "Google таблицы.md",
-    "Настройка Google Sheets.md",
-    "Google документы.md",
-    "GPT.md",
-    "Настройка Google Docs.md",
-    "Google диск.md",
-    "Google диск Настройка для использования в PIX.md",
-    "Работа с сервисами Google.md",
-    "SQL.md",
-    "HTTP и SQL.md",
-    "HTTP.md",
-    "Обобщить текст GPT.md",
-    "YandexGPT.md",
-    "Machine learning.md",
-    "Машинное обучение.md",
-    "Telegram в PIX Studio.md",
-    "Telegram.md",
-    "State machine.md",
-    "Telegram бот который отправляет письма с электронной почты.md",
-    "Tesseract.md",
-    "Pix Academy Базовый курс/Работа с файлами.md",
-    "Без названия.md",
-    "OCR.md",
+    "Pasted image 20240716204006.png",
+    "Pasted image 20240716203946.png",
+    "Pasted image 20240716203941.png",
+    "Pasted image 20240716203935.png",
+    "Pasted image 20240716203927.png",
+    "Pasted image 20240716203752.png",
+    "Pasted image 20240716203741.png",
+    "Pasted image 20240716203731.png",
+    "Pasted image 20240716203721.png",
+    "Pasted image 20240716203708.png",
+    "Pasted image 20240716203632.png",
+    "ТехСреда 5 с Yandex Cloud RPA GPT Примеры.md",
+    "ТехСреда 5 с Yandex Cloud RPA GPT.md",
+    "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
+    "ТехСреда 5 с Yandex Cloud RPA GPT Примеры чат PIX Runner.md",
+    "ТехСреда 5 с Yandex Cloud RPA GPT Готовые Архитектуры приложений.md",
+    "Runner.md",
+    "ТехСреда 4 PIX Кластерная установка Практика Шаг 4 Создание 2ой ноды.md",
+    "ТехСреда 4 PIX Кластерная установка Практика Шаг 3 Настройка Redis.md",
+    "ТехСреда 4 PIX Кластерная установка Практика Шаг 2.md",
+    "ТехСреда 4 PIX Кластерная установка Балансировщик нагрузки.md",
+    "ТехСреда 4 PIX Кластерная установка Практика Шаг 1.md",
+    "ТехСреда 3 PIX Excel, снова Excel и Calc Проблема больших таблиц.md",
+    "ТехСреда 3 PIX Open Office Calc.md",
+    "ТехСреда 3 PIX Open Office Calc Пример.md",
+    "ТехСреда 2 Тонкости установки и настройки PIX Master в LINUX.md",
+    "ТехСреда 2 PIX Master Docker.md",
+    "ТехСреда 2 Тонкости установки и настройки PIX Master.md",
+    "ТехСреда 2 PIX Master в LINUX Кластерный режим.md",
+    "ТехСреда 1 Механизм запуска очереди Логи Agent Host.md",
+    "ТехСреда 1 Инструменты PIX для решения проблем запуска роботов без участия человека.md",
+    "ТехСреда",
+    "Администратор PIX Master/1 Администратор PIX Master (далее APM).md",
+    "Pix Master/2 2 PIX MASTER Задачи.md",
+    "Pix Master/3.2. PIX Master Задачи.md",
+    "Администратор PIX Master/4 APM Создание задачи.md",
+    "Администратор PIX Master/3 APM Управление пользователями.md",
+    "Администратор PIX Master",
+    "PM для разработчиков",
+    "ВВОДНЫЙ КУРС ПО PIX MASTER",
+    "Pix Master",
+    "Взаимодействие PIX RPA с SAP GUI",
     "Pix ИНТЕГРАЦИЯ СО СТОРОННИМИ СЕРВИСАМИ В PIX STUDIO",
     "Pix Academy Базовый курс"
   ]
