@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18c587a72a5ff296",
+            "id": "926b72b4d83afa26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
+                "file": "ТехСреда 9 Продвинутая разработка активностей.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
+                "file": "ТехСреда 9 Продвинутая разработка активностей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
+                "file": "ТехСреда 9 Продвинутая разработка активностей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md"
+                "file": "ТехСреда 9 Продвинутая разработка активностей.md"
               }
             }
           }
@@ -147,22 +147,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "18c587a72a5ff296",
+  "active": "926b72b4d83afa26",
   "lastOpenFiles": [
-    "Pasted image 20240716204006.png",
-    "Pasted image 20240716203946.png",
-    "Pasted image 20240716203941.png",
-    "Pasted image 20240716203935.png",
-    "Pasted image 20240716203927.png",
-    "Pasted image 20240716203752.png",
-    "Pasted image 20240716203741.png",
-    "Pasted image 20240716203731.png",
-    "Pasted image 20240716203721.png",
-    "Pasted image 20240716203708.png",
-    "Pasted image 20240716203632.png",
+    "Pasted image 20240719221640.png",
+    "Pasted image 20240719221538.png",
+    "Pasted image 20240719221207.png",
+    "ТехСреда 8 Обслуживание и диагностика PIX Master.md",
+    "ТехСреда 9 Продвинутая разработка активностей.md",
+    "ТехСреда 8 Обслуживание и диагностика PIX Master 3 Веб-сервер NET App Master dll.md",
+    "Pasted image 20240719200832.png",
+    "Pasted image 20240719200720.png",
+    "Pasted image 20240719200659.png",
+    "Pasted image 20240719200604.png",
+    "Pasted image 20240719200550.png",
+    "Pasted image 20240719200520.png",
+    "Pasted image 20240719200501.png",
+    "Pasted image 20240719200427.png",
+    "ТехСреда 8 Обслуживание и диагностика PIX Master 1 БД.md",
+    "ТехСреда 8 Обслуживание и диагностика PIX Master 2 Работа с хранилищем..md",
+    "ТехСреда 7 Основы работы с GIT Слияние веток.md",
+    "ТехСреда 7 Основы работы с GIT для команды, GitFlow.md",
+    "ТехСреда 7 Основы работы с GIT.md",
+    "ТехСреда 6 Разработка и запуск роботов на Linux Установка Agent Host.md",
+    "ТехСреда 6 Разработка и запуск роботов на Linux Установка DOTNET.md",
+    "ТехСреда 6 Разработка и запуск роботов на Linux Установка PIX Studio.md",
+    "ТехСреда 6 Разработка и запуск роботов на Linux.md",
+    "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
     "ТехСреда 5 с Yandex Cloud RPA GPT Примеры.md",
     "ТехСреда 5 с Yandex Cloud RPA GPT.md",
-    "ТехСреда 5 Yandex Cloud Бизнес-кейсы LLM.md",
     "ТехСреда 5 с Yandex Cloud RPA GPT Примеры чат PIX Runner.md",
     "ТехСреда 5 с Yandex Cloud RPA GPT Готовые Архитектуры приложений.md",
     "Runner.md",
@@ -173,19 +185,7 @@
     "ТехСреда 4 PIX Кластерная установка Практика Шаг 1.md",
     "ТехСреда 3 PIX Excel, снова Excel и Calc Проблема больших таблиц.md",
     "ТехСреда 3 PIX Open Office Calc.md",
-    "ТехСреда 3 PIX Open Office Calc Пример.md",
-    "ТехСреда 2 Тонкости установки и настройки PIX Master в LINUX.md",
-    "ТехСреда 2 PIX Master Docker.md",
-    "ТехСреда 2 Тонкости установки и настройки PIX Master.md",
-    "ТехСреда 2 PIX Master в LINUX Кластерный режим.md",
-    "ТехСреда 1 Механизм запуска очереди Логи Agent Host.md",
-    "ТехСреда 1 Инструменты PIX для решения проблем запуска роботов без участия человека.md",
     "ТехСреда",
-    "Администратор PIX Master/1 Администратор PIX Master (далее APM).md",
-    "Pix Master/2 2 PIX MASTER Задачи.md",
-    "Pix Master/3.2. PIX Master Задачи.md",
-    "Администратор PIX Master/4 APM Создание задачи.md",
-    "Администратор PIX Master/3 APM Управление пользователями.md",
     "Администратор PIX Master",
     "PM для разработчиков",
     "ВВОДНЫЙ КУРС ПО PIX MASTER",
