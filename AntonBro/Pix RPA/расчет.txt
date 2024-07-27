@@ -1,0 +1,22 @@
+5 Оценка экономического эффекта. Разбор кейса
+Первичная оценка процесса 
+9 мин 48 сек
+171
+21
+6
+15
+36
+=249 (вместо 256 как там указано)
+
+
+Урок 6
+В скаченном файле нет примечаний
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<recoveryLog xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+<logFileName>error102440_02.xml</logFileName>
+<summary>Обнаружены ошибки в файле "C:\Users\User\Downloads\Комплексная оценка процессов (КОП) с примером заполнения (1).xlsx"</summary>
+<removedParts summary="Ниже приведен список удаленных компонентов:">
+<removedPart>Удаленный компонент: часть /xl/comments1.xml с ошибкой XML. (Примечания) Ошибка загрузки. Строка 2, столбец 200.</removedPart>
+<removedPart>Удаленный компонент: часть /xl/comments2.xml с ошибкой XML. (Примечания) Ошибка загрузки. Строка 2, столбец 200.</removedPart>
+</removedParts>
+</recoveryLog>

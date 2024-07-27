@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Script xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/BR.Logic">
+  <CompilationType>CSharp</CompilationType>
+  <Description>Новый скрипт без наполнения.</Description>
+  <Id>94233672-40c8-42a0-aa24-5f15dc2dc1ac</Id>
+  <Logic z:Id="i2" i:type="ExecutedStep">
+    <Childs>
+      <AbstractStep z:Id="i3" i:type="ExecutedStep">
+        <Childs>
+          <AbstractStep z:Id="i4" i:type="ExecutedStep">
+            <Childs />
+            <Id>6aedf1fb-1193-430a-b52f-4c30da01aadc</Id>
+            <Parent z:Ref="i3" />
+            <PropertyValues>
+              <PropertyValue z:Id="i5">
+                <PropertyName>SID</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"SHW"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i6">
+                <PropertyName>Client</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"500"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i7">
+                <PropertyName>User</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"TRETIAKOVAAI"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i8">
+                <PropertyName>Password</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"123Qwee3210"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i9">
+                <PropertyName>SecurePassword</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression></_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i10">
+                <PropertyName>Language</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"RU"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i11">
+                <PropertyName>PathToSapshcut</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:string">C:\Program Files (x86)\SAP\FrontEnd\SAPgui\sapshcut.exe</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i12">
+                <PropertyName>PathToLogon</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:string">C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+            </PropertyValues>
+            <SelectedOptionId>1</SelectedOptionId>
+            <EnableStatus>true</EnableStatus>
+            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+            <RetryCount>-1</RetryCount>
+            <Text></Text>
+            <_activityFullName>Activities.Desktop.Sap.Logon</_activityFullName>
+          </AbstractStep>
+        </Childs>
+        <Id>887b8785-6800-4725-a424-61620814af42</Id>
+        <Parent z:Ref="i2" />
+        <PropertyValues />
+        <SelectedOptionId i:nil="true" />
+        <EnableStatus>true</EnableStatus>
+        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+        <RetryCount>-1</RetryCount>
+        <Text>Авторизация</Text>
+        <_activityFullName>BR.Core.Base.Container</_activityFullName>
+      </AbstractStep>
+      <AbstractStep z:Id="i13" i:type="ExecutedStep">
+        <Childs>
+          <AbstractStep z:Id="i14" i:type="ExecutedStep">
+            <Childs />
+            <Id>6f394bd1-a7a2-4ac1-9271-fc0a964dc696</Id>
+            <Parent z:Ref="i13" />
+            <PropertyValues>
+              <PropertyValue z:Id="i15">
+                <PropertyName>SearchTimeout</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">4</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i16">
+                <PropertyName>Element</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression></_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i17">
+                <PropertyName>Text</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"FBL3N"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i18">
+                <PropertyName>XPath</PropertyName>
+                <_dataType>XPath</_dataType>
+                <_expression i:nil="true" />
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" z:Id="i19">
+                  <d9p1:Nodes xmlns:d10p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
+                    <d10p1:list>
+                      <d9p1:XPathNode z:Id="i20">
+                        <d9p1:AttributeOperators xmlns:d13p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+                        <d9p1:Attributes>
+                          <d10p1:list>
+                            <d9p1:XPathAttribute z:Id="i21">
+                              <d9p1:IsEnabled>false</d9p1:IsEnabled>
+                              <d9p1:IsPositionAttribute>true</d9p1:IsPositionAttribute>
+                              <d9p1:Operator>Equal</d9p1:Operator>
+                              <d9p1:Value i:nil="true" />
+                              <d9p1:_isCSharpExpression>false</d9p1:_isCSharpExpression>
+                              <d9p1:_name></d9p1:_name>
+                            </d9p1:XPathAttribute>
+                            <d9p1:XPathAttribute z:Id="i22">
+                              <d9p1:IsEnabled>true</d9p1:IsEnabled>
+                              <d9p1:IsPositionAttribute>false</d9p1:IsPositionAttribute>
+                              <d9p1:Operator>Equal</d9p1:Operator>
+                              <d9p1:Value>'/app/con[0]/ses[0]/wnd[0]/tbar[0]/okcd'</d9p1:Value>
+                              <d9p1:_isCSharpExpression>false</d9p1:_isCSharpExpression>
+                              <d9p1:_name>Id</d9p1:_name>
+                            </d9p1:XPathAttribute>
+                          </d10p1:list>
+                        </d9p1:Attributes>
+                        <d9p1:IsEnabled>true</d9p1:IsEnabled>
+                        <d9p1:Name>SapGuiElement</d9p1:Name>
+                      </d9p1:XPathNode>
+                    </d10p1:list>
+                  </d9p1:Nodes>
+                  <d9p1:ScreenShotBase64>/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAsAKIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2z7NF6H86Ps0Xofzqao4YXuJJybiRAj7QFC4+6D3B9aAG/ZovQ/nR9mi9D+dWPsLf8/c/5J/8TR9hb/n7n/JP/iaAK/2aL0P50fZovQ/nVj7C3/P3P+Sf/E0fYW/5+5/yT/4mgCv9mi9D+dH2aL0P51Y+wt/z9z/kn/xNH2Fv+fuf8k/+JoAr/ZovQ/nR9mi9D+dWPsLf8/c/5J/8TR9hb/n7n/JP/iaAK/2aL0P50fZovQ/nVj7C3/P3P+Sf/E0fYW/5+5/yT/4mgCv9mi9D+dH2aL0P51Y+wt/z9z/kn/xNH2Fv+fuf8k/+JoAr/ZovQ/nR9mi9D+dWPsLf8/c/5J/8TR9hb/n7n/JP/iaAK/2aL0P50fZovQ/nVj7C3/P3P+Sf/E0fYW/5+5/yT/4mgCv9mi9D+dH2aL0P50+5tnhtZpVupiyIzDITHA/3afQBD9mi9D+dFTUUAFOsfvXX/XX/ANkWm06x+9df9df/AGRaALdFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWPJr6QtJbSW7jUlfZHaBuZc52sp/u4GSe2DnpWxTdiGQSFF3gEBscgHqM/gKAIL3P9mXG4AN5LZAOR0NR1Lf/wDIOuf+uTfyNRUAcjJ8R9DSV0H2hwrEBlTg+45orZk8M6JLK8kml2rO7FmJjHJNFAGn5if31/OoikJdmErKWOTtmZQeMdAfar1FAFHZF/z3l/8AAh/8aNkX/PeX/wACH/xq9RQBR2Rf895f/Ah/8aNkX/PeX/wIf/Gr1FAFHZF/z3l/8CH/AMaNkX/PeX/wIf8Axq9RQBR2Rf8APeX/AMCH/wAaNkX/AD3l/wDAh/8AGr1FAFHZF/z3l/8AAh/8aNkX/PeX/wACH/xq9RQBR2Rf895f/Ah/8aNkX/PeX/wIf/Gr1FAFHZF/z3l/8CH/AMaNkX/PeX/wIf8Axq9RQBR2Rf8APeX/AMCH/wAaNkX/AD3l/wDAh/8AGr1FAFBooWUq00hUjBBnbB/WpvMT++v51ZooAreYn99fzoqzRQB//9k=</d9p1:ScreenShotBase64>
+                </_xpathSettings>
+              </PropertyValue>
+              <PropertyValue z:Id="i23">
+                <PropertyName>RuntimerKind</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://schemas.datacontract.org/2004/07/Activities.Desktop.Core" i:type="d9p1:RuntimerKind">Local</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+            </PropertyValues>
+            <SelectedOptionId>0</SelectedOptionId>
+            <EnableStatus>true</EnableStatus>
+            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+            <RetryCount>-1</RetryCount>
+            <Text></Text>
+            <_activityFullName>Activities.Desktop.Sap.EnterTextElement</_activityFullName>
+          </AbstractStep>
+          <AbstractStep z:Id="i24" i:type="ExecutedStep">
+            <Childs />
+            <Id>d22be1ad-2278-40ab-9b59-4931cb4bb128</Id>
+            <Parent z:Ref="i13" />
+            <PropertyValues>
+              <PropertyValue z:Id="i25">
+                <PropertyName>ClickType</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://schemas.datacontract.org/2004/07/Activities.Desktop.Core" i:type="d9p1:MouseClickType">Left</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i26">
+                <PropertyName>SearchTimeout</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:int">4</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i27">
+                <PropertyName>Element</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression></_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i28">
+                <PropertyName>IsProgrammaticClick</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:boolean">true</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i29">
+                <PropertyName>FocusBeforeClick</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://www.w3.org/2001/XMLSchema" i:type="d9p1:boolean">true</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i30">
+                <PropertyName>XPath</PropertyName>
+                <_dataType>XPath</_dataType>
+                <_expression i:nil="true" />
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" z:Id="i31">
+                  <d9p1:Nodes xmlns:d10p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
+                    <d10p1:list>
+                      <d9p1:XPathNode z:Id="i32">
+                        <d9p1:AttributeOperators xmlns:d13p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+                        <d9p1:Attributes>
+                          <d10p1:list>
+                            <d9p1:XPathAttribute z:Id="i33">
+                              <d9p1:IsEnabled>false</d9p1:IsEnabled>
+                              <d9p1:IsPositionAttribute>true</d9p1:IsPositionAttribute>
+                              <d9p1:Operator>Equal</d9p1:Operator>
+                              <d9p1:Value i:nil="true" />
+                              <d9p1:_isCSharpExpression>false</d9p1:_isCSharpExpression>
+                              <d9p1:_name></d9p1:_name>
+                            </d9p1:XPathAttribute>
+                            <d9p1:XPathAttribute z:Id="i34">
+                              <d9p1:IsEnabled>true</d9p1:IsEnabled>
+                              <d9p1:IsPositionAttribute>false</d9p1:IsPositionAttribute>
+                              <d9p1:Operator>Equal</d9p1:Operator>
+                              <d9p1:Value>'/app/con[0]/ses[0]/wnd[0]/tbar[0]/btn[0]'</d9p1:Value>
+                              <d9p1:_isCSharpExpression>false</d9p1:_isCSharpExpression>
+                              <d9p1:_name>Id</d9p1:_name>
+                            </d9p1:XPathAttribute>
+                          </d10p1:list>
+                        </d9p1:Attributes>
+                        <d9p1:IsEnabled>true</d9p1:IsEnabled>
+                        <d9p1:Name>SapGuiElement</d9p1:Name>
+                      </d9p1:XPathNode>
+                    </d10p1:list>
+                  </d9p1:Nodes>
+                  <d9p1:ScreenShotBase64>/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAuAC4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1bwtbxnwjopIPNhB3/wCma1rfZovQ/nWd4V/5FDRP+vCD/wBFrWvQBD9mi9D+dH2aL0P51zuq+P8AQdJnaBppLmZDhlt1DYPpkkD9a0tF8SaVr6sbC5Dun3o2G1x74Pb3FLmV7GMcRSlLkUlc0Ps0Xofzo+zReh/OpqKZsZHhX/kUNE/68IP/AEWtZ/j7VZNJ8KTvC5SadhAjDORnJOPQ4BrQ8K/8ihon/XhB/wCi1pPFOjHXvD9zYowWVgHiJPG4cjPsen40pXtoY4hSdKShvY8NsNGvb/VbPT1hkjluypj3oRlD/Hz1GMnPtXXeL307wn4o0xdDj8u6s4l+07W4fpgN/tEZz/vCug0PxrbWttJD4ktFt9Y0uFhEzoFaVcY2qezHAGBweoriNE0fUPGniOS6uFYwvN5l1NztAznaD644A7CuaySstz5/2cYQUKLvKT+at+Wp7ijB41cdGAIp1AAAwOgorqPpjH8LOo8I6KCwB+wQdT/0zWtbzE/vr+dUPCX/ACJuif8AXhB/6LFbFAGddWlhfKFu7e2uFHQTIrj9amj8iJAkflog6KuABVuigVle5W8xP76/nR5if31/OrNFAz//2Q==</d9p1:ScreenShotBase64>
+                </_xpathSettings>
+              </PropertyValue>
+              <PropertyValue z:Id="i35">
+                <PropertyName>RuntimerKind</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://schemas.datacontract.org/2004/07/Activities.Desktop.Core" i:type="d9p1:RuntimerKind">Local</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+            </PropertyValues>
+            <SelectedOptionId>0</SelectedOptionId>
+            <EnableStatus>true</EnableStatus>
+            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+            <RetryCount>-1</RetryCount>
+            <Text></Text>
+            <_activityFullName>Activities.Desktop.Sap.ClickElement</_activityFullName>
+          </AbstractStep>
+        </Childs>
+        <Id>092f8f54-b89d-4b6e-a37c-44deef5b443c</Id>
+        <Parent z:Ref="i2" />
+        <PropertyValues />
+        <SelectedOptionId i:nil="true" />
+        <EnableStatus>true</EnableStatus>
+        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+        <RetryCount>-1</RetryCount>
+        <Text>Запуск транзакции 1 вариант</Text>
+        <_activityFullName>BR.Core.Base.Container</_activityFullName>
+      </AbstractStep>
+      <AbstractStep z:Id="i36" i:type="ExecutedStep">
+        <Childs>
+          <AbstractStep z:Id="i37" i:type="ExecutedStep">
+            <Childs />
+            <Id>b6a2a93f-6afd-4205-a404-89f22c4c41eb</Id>
+            <Parent z:Ref="i36" />
+            <PropertyValues>
+              <PropertyValue z:Id="i38">
+                <PropertyName>Transaction</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"FBL3N"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i39">
+                <PropertyName>RuntimerKind</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://schemas.datacontract.org/2004/07/Activities.Desktop.Core" i:type="d9p1:RuntimerKind">Local</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+            </PropertyValues>
+            <SelectedOptionId i:nil="true" />
+            <EnableStatus>true</EnableStatus>
+            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+            <RetryCount>-1</RetryCount>
+            <Text></Text>
+            <_activityFullName>Activities.Desktop.SAP.StartTransaction</_activityFullName>
+          </AbstractStep>
+        </Childs>
+        <Id>8f147a1a-a8c5-499e-b391-c5a5f15489f9</Id>
+        <Parent z:Ref="i2" />
+        <PropertyValues />
+        <SelectedOptionId i:nil="true" />
+        <EnableStatus>true</EnableStatus>
+        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+        <RetryCount>-1</RetryCount>
+        <Text>Запуск транзакции 2 вариант (рекомендованно)</Text>
+        <_activityFullName>BR.Core.Base.Container</_activityFullName>
+      </AbstractStep>
+      <AbstractStep z:Id="i40" i:type="ExecutedStep">
+        <Childs>
+          <AbstractStep z:Id="i41" i:type="ExecutedStep">
+            <Childs />
+            <Id>828627bb-f084-4302-bbbd-102d555ba9c8</Id>
+            <Parent z:Ref="i40" />
+            <PropertyValues>
+              <PropertyValue z:Id="i42">
+                <PropertyName>Transaction</PropertyName>
+                <_dataType>Expression</_dataType>
+                <_expression>"FB05"</_expression>
+                <_value i:nil="true" />
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+              <PropertyValue z:Id="i43">
+                <PropertyName>RuntimerKind</PropertyName>
+                <_dataType>Value</_dataType>
+                <_expression i:nil="true" />
+                <_value xmlns:d9p1="http://schemas.datacontract.org/2004/07/Activities.Desktop.Core" i:type="d9p1:RuntimerKind">Local</_value>
+                <_xpathSettings xmlns:d9p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+              </PropertyValue>
+            </PropertyValues>
+            <SelectedOptionId i:nil="true" />
+            <EnableStatus>true</EnableStatus>
+            <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+            <RetryCount>-1</RetryCount>
+            <Text></Text>
+            <_activityFullName>Activities.Desktop.SAP.StartTransaction</_activityFullName>
+          </AbstractStep>
+        </Childs>
+        <Id>3c4428c9-9de9-418f-895d-772015e86653</Id>
+        <Parent z:Ref="i2" />
+        <PropertyValues />
+        <SelectedOptionId i:nil="true" />
+        <EnableStatus>true</EnableStatus>
+        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+        <RetryCount>-1</RetryCount>
+        <Text>Переход к другой транзакции</Text>
+        <_activityFullName>BR.Core.Base.Container</_activityFullName>
+      </AbstractStep>
+    </Childs>
+    <Id>a53579e7-33b8-4d39-9a63-11d9a4a9861b</Id>
+    <Parent i:nil="true" />
+    <PropertyValues />
+    <SelectedOptionId i:nil="true" />
+    <EnableStatus>true</EnableStatus>
+    <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+    <RetryCount>-1</RetryCount>
+    <Text></Text>
+    <_activityFullName>BR.Core.Base.Container</_activityFullName>
+  </Logic>
+  <Name>2 урок.pix</Name>
+  <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <Params />
+  <TemplateVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/System" i:nil="true" />
+  <Variables xmlns:d2p1="http://schemas.datacontract.org/2004/07/BR.Logic.Params" />
+  <Version i:nil="true" />
+</Script>
